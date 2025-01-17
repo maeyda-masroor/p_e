@@ -7,7 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "import-data": "node script/importSanityData.mjs"
+    "import-data": "node script/importSanityData.mjs",
+    "import-category": "node script/importCategoryData.mjs",
+    "import-c": "node script/importData.mjs"
+
+
   },
   "dependencies": {
     "@sanity/client": "^6.24.3",
