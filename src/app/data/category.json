@@ -1,0 +1,7 @@
+[
+    { "id": 1, "category": "Chair", "image_url": "https://res.cloudinary.com/di1kessdw/image/upload/v1734612322/Ecommerce/categories/image_1168_k7qgi2.png" },
+    { "id": 2, "category": "Table", "image_url": "https://res.cloudinary.com/di1kessdw/image/upload/v1734612305/Ecommerce/categories/image_1171_wjixfu.png" },
+    { "id": 3, "category": "Sofa", "image_url": "https://res.cloudinary.com/di1kessdw/image/upload/v1734612287/Ecommerce/categories/image_20_xpddo5.png" },
+    { "id": 4, "category": "Bed", "image_url": "https://res.cloudinary.com/di1kessdw/image/upload/v1734612287/Ecommerce/categories/image_20_xpddo5.png" }
+]
+  
